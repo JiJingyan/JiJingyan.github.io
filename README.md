@@ -1,4 +1,4 @@
-<ing src="https://github.com/JiJingyan/JiJingyan.github.io/blob/main/download.png" alt="RPB Photo" align="right"/>
+<ing src="https://JiJingyan.github.io/blob/main/download.png" alt="RPB Photo" align="right"/>
 
 
 # JiJingyan.github.io
