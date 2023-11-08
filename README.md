@@ -3,8 +3,6 @@
 
 # JiJingyan.github.io
 
-<img src="https://organicthemes.com/demo/nonprofit/files/2015/05/computer-coffee-dark-300x200.jpg" alt="Photo" align="right" width="30%"/>
-
 # _Jingyan Ji_
 > _Brand Management_<br />
 > Payap University<br />
