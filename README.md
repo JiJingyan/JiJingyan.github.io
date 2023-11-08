@@ -1,4 +1,5 @@
-<img src="https://github.com/JiJingyan/JiJingyan.github.io/blob/main/eko.jpg" alt="RPB Photo" align="right"/>
+<img src="https://github.com/JiJingyan/JiJingyan.github.io/blob/main/eko.jpg" alt="RPB Photo" alt="Photo" align="right" width="30%"/>
+"/>
 
 
 # JiJingyan.github.io
